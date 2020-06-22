@@ -1,0 +1,27 @@
+apply plugin: 'groovy'
+
+repositories {
+    maven{url 'http://repo.jenkins-ci.ord/releases/'}
+    maven{url 'https://jcenter.bintray.com'}
+    maven{url 'https://mvnreposiroty.com/artifact'}
+    maven{url 'https://repo1.maven.ord/maven2/'}
+}
+
+subprojects{
+    apply plugin: 'groovy'
+
+    sourceSets{
+        main{
+            groovy{
+                srcDirs 'src'
+                srcDirs 'vars'
+            }
+        }
+        test{
+            groovy{
+                srcDirs 'test'
+                srcDirs 'src'
+            }
+        }
+    }
+}
