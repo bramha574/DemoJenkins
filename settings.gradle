@@ -1,4 +1,4 @@
 rootProject.name = 'DemoJenkins'
 
-include ':helloworld'
+include ':demo-lib-a'
 
