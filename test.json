@@ -1,0 +1,12 @@
+{
+  "Credentials": {
+    "AccessKeyId": "ASIAWJJNJ6SBXQ62TZUT",
+    "SecretAccessKey": "SKds/XoeWhKGHr+D2u740PIy+ERHHMa1sDwyKfmb",
+    "SessionToken": "IQoJb3JpZ2luX2VjEL3//////////wEaCXVzLWVhc3QtMSJHMEUCIEwKesa858/2hw9+9/iZYlgNRuUAgR6q+gAbGx6vquPsAiEA+NYWz4KPOim2eH+nim62+GTeNlNVh/Psynwz+2i6BVAqlAIIZhABGgw0MzIyNzYxMDg0MTkiDO6u278KPPwZPTarECrxAZb292HNlvoue4TiFg0E8J+8O6aCgE9j5KaacntVI/MMDxT50M05F2pU9gnCf7Fn7riMsvRW/1Y7ZkBs8AdoeEB5IVRB3BhpcKSM3HiUBRTZUWPLAA9rY0xoheZQtOL7f4lQ6oNB0ZthNCGgcV9Y1Toa6/2aZ8G9PNv+DIgIWQabkucnWPx5F39rDrOEEYmjZijT210mtHWRKGDQfaw58tXK88fZCW5m5plrb0vt82HD4+V9yW5im7EhhGDIPEtZErz2xBsbWcV3/iJWK8sxR7bz5M5hh/J7wdVlHqydA9uX4+0VdFLeFpm4spUZPFELvZYw1ezckgY6nQGvlekuppWz2RRtQEvVtrOf2DIr5E6F6qGjiI17/2hfM6Dmzn7CgaWbrCFUqBrXRKyGJDi12MnOUD7eWjiT7hCtRFLCGhClJ/LBTPbbEon8J7Ld+DgFSY1D1CYgzBBLUxm3CH9BRm0wgaeCibzKivW8GVkNeabCQrhasSpz9b/DZeDrkm5IGnyOrOX00eobj00JsMmVGXGXXNgTjxbY",
+    "Expiration": "2022-04-13T21:45:09+00:00"
+  },
+  "AssumedRoleUser": {
+    "AssumedRoleId": "AROAWJJNJ6SBRQKSGXQGU:jenkins",
+    "Arn": "arn:aws:sts::432276108419:assumed-role/demo-admin-role/jenkins"
+  }
+}
